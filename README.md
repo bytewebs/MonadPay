@@ -1,4 +1,4 @@
-# Payment Gateway
+# MonadPay 
 
 A decentralized payment gateway built on Monad blockchain with smart contract integration.
 
